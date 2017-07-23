@@ -1,3 +1,12 @@
 
 [bitsquare]
 checkout = git clone 'https://github.com/bitsquare/bitsquare.git' 'bitsquare'
+
+[bitcoinj]
+checkout = git clone 'https://github.com/bitsquare/bitcoinj.git' 'bitcoinj'
+
+[btcd-cli4j]
+checkout = git clone 'https://github.com/bitsquare/btcd-cli4j.git' 'btcd-cli4j'
+
+[libdohj]
+checkout = git clone 'https://github.com/bitsquare/libdohj.git' 'libdohj'
