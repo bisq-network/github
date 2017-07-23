@@ -19,3 +19,6 @@ checkout = git clone 'git@github.com:bitsquare/docker.git' 'docker'
 
 [dao]
 checkout = git clone 'git@github.com:bitsquare/dao.git' 'dao'
+
+[site]
+checkout = git clone 'git@github.com:bitsquare/site.git' 'site'
