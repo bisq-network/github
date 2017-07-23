@@ -10,3 +10,6 @@ checkout = git clone 'https://github.com/bitsquare/btcd-cli4j.git' 'btcd-cli4j'
 
 [libdohj]
 checkout = git clone 'https://github.com/bitsquare/libdohj.git' 'libdohj'
+
+[newsletter]
+checkout = git clone 'git@github.com:bitsquare/newsletter.git' 'newsletter'
