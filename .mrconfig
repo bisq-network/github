@@ -1,15 +1,15 @@
 
 [bitsquare]
-checkout = git clone 'https://github.com/bitsquare/bitsquare.git' 'bitsquare'
+checkout = git clone 'git@github.com:bitsquare/bitsquare.git' 'bitsquare'
 
 [bitcoinj]
-checkout = git clone 'https://github.com/bitsquare/bitcoinj.git' 'bitcoinj'
+checkout = git clone 'git@github.com:bitsquare/bitcoinj.git' 'bitcoinj'
 
 [btcd-cli4j]
-checkout = git clone 'https://github.com/bitsquare/btcd-cli4j.git' 'btcd-cli4j'
+checkout = git clone 'git@github.com:bitsquare/btcd-cli4j.git' 'btcd-cli4j'
 
 [libdohj]
-checkout = git clone 'https://github.com/bitsquare/libdohj.git' 'libdohj'
+checkout = git clone 'git@github.com:bitsquare/libdohj.git' 'libdohj'
 
 [newsletter]
 checkout = git clone 'git@github.com:bitsquare/newsletter.git' 'newsletter'
