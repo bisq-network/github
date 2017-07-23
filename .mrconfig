@@ -25,3 +25,6 @@ checkout = git clone 'git@github.com:bitsquare/site.git' 'site'
 
 [forum]
 checkout = git clone 'git@github.com:bitsquare/forum.git' 'forum'
+
+[infrastructure]
+checkout = git clone 'git@github.com:bitsquare/infrastructure.git' 'infrastructure'
