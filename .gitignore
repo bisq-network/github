@@ -1,4 +1,4 @@
-bitsquare
+exchange
 bitcoinj
 btcd-cli4j
 libdohj
@@ -8,3 +8,4 @@ dao
 site
 forum
 infrastructure
+price-relay
