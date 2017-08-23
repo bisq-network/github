@@ -2,8 +2,8 @@
 [exchange]
 checkout = git clone 'git@github.com:bisq-network/bisq-exchange.git' 'exchange'
 
-[price-relay]
-checkout = git clone 'git@github.com:bisq-network/bisq-price-relay.git' 'price-relay'
+[pricenode]
+checkout = git clone 'git@github.com:bisq-network/pricenode.git' 'pricenode'
 
 [bitcoinj]
 checkout = git clone 'git@github.com:bisq-network/bitcoinj.git' 'bitcoinj'
