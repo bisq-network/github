@@ -23,8 +23,8 @@ checkout = git clone 'git@github.com:bisq-network/docker.git' 'docker'
 [dao]
 checkout = git clone 'git@github.com:bisq-network/dao.git' 'dao'
 
-[site]
-checkout = git clone 'git@github.com:bisq-network/site.git' 'site'
+[website]
+checkout = git clone 'git@github.com:bisq-network/website.git' 'website'
 
 [forum]
 checkout = git clone 'git@github.com:bisq-network/forum.git' 'forum'
