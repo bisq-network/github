@@ -29,8 +29,8 @@ checkout = git clone 'git@github.com:bisq-network/website.git' 'website'
 [forum]
 checkout = git clone 'git@github.com:bisq-network/forum.git' 'forum'
 
-[infrastructure]
-checkout = git clone 'git@github.com:bisq-network/infrastructure.git' 'infrastructure'
+[dns]
+checkout = git clone 'git@github.com:bisq-network/dns.git' 'dns'
 
 [roles]
 checkout = git clone 'git@github.com:bisq-network/roles.git' 'roles'
