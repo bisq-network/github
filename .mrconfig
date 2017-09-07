@@ -37,3 +37,6 @@ checkout = git clone 'git@github.com:bisq-network/roles.git' 'roles'
 
 [docs]
 checkout = git clone 'git@github.com:bisq-network/docs.git' 'docs'
+
+[proposals]
+checkout = git clone 'git@github.com:bisq-network/proposals.git' 'proposals'
