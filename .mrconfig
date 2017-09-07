@@ -31,3 +31,6 @@ checkout = git clone 'git@github.com:bisq-network/forum.git' 'forum'
 
 [infrastructure]
 checkout = git clone 'git@github.com:bisq-network/infrastructure.git' 'infrastructure'
+
+[roles]
+checkout = git clone 'git@github.com:bisq-network/roles.git' 'roles'
