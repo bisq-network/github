@@ -1,6 +1,6 @@
 
 [exchange]
-checkout = git clone 'git@github.com:bisq-network/bisq-exchange.git' 'exchange'
+checkout = git clone 'git@github.com:bisq-network/exchange.git' 'exchange'
 
 [pricenode]
 checkout = git clone 'git@github.com:bisq-network/pricenode.git' 'pricenode'
