@@ -43,3 +43,6 @@ checkout = git clone 'git@github.com:bisq-network/proposals.git' 'proposals'
 
 [lists]
 checkout = git clone 'git@github.com:bisq-network/lists.git' 'lists'
+
+[compensation]
+checkout = git clone 'git@github.com:bisq-network/compensation.git' 'compensation'
